@@ -1,0 +1,334 @@
+Well ID,Avg Pump Difference,Area,Fluid System,Development Strategy,DELAYED,BOUND_CODE,CODEV_POSITION,CODEV_FORMATION_POSITION
+1,-0.93,Acadia,Campbell,Coke,1,11100000,Edge,Edge
+2,-8.45,Acadia,Campbell,Coke,1,11100000,Edge,Edge
+3,8.7,Arches,Campbell,Orange Crush,0,101111,Middle,Edge
+5,19.93,Badlands,Campbell,Mountain Dew,1,10001101,Edge,Edge
+6,-4.34,Big Bend,Campbell,Coke,1,11110000,Edge,Edge
+7,0.54,Big Bend,Campbell,Orange Crush,1,10101111,Edge,Edge
+8,66.52,Arches,Campbell,Coke,1,11111000,Edge,Edge
+9,3.39,Big Bend,Campbell,Coke,1,11111000,Edge,Edge
+10,13.78,Canyonlands,Campbell,Mountain Dew,0,10001001,Middle,Middle
+11,56.25,Canyonlands,Campbell,Mountain Dew,0,10001001,Middle,Middle
+12,65.88,Canyonlands,Campbell,Mountain Dew,0,10001001,Middle,Middle
+13,75.57,Canyonlands,Campbell,Orange Crush,0,11110101,Middle,Edge
+14,43.66,Canyonlands,Campbell,Orange Crush,0,11110101,Middle,Edge
+15,66.63,Canyonlands,Campbell,Orange Crush,0,11110101,Middle,Edge
+16,80.58,Carlsbad Caverns,Young,Mountain Dew,0,10001001,Middle,Middle
+17,92.39,Carlsbad Caverns,Young,Mountain Dew,0,10001001,Middle,Middle
+18,42.91,Canyonlands,Campbell,Mountain Dew,0,10001001,Middle,Middle
+19,5.23,Canyonlands,Campbell,Mountain Dew,0,10001001,Middle,Middle
+20,39.6,Canyonlands,Campbell,Mountain Dew,0,10001001,Middle,Middle
+22,-1.48,Crater Lake,Campbell,Mountain Dew,1,11011000,Middle,Middle
+23,1.96,Crater Lake,Campbell,Coke,1,11111000,Edge,Edge
+24,24.21,Crater Lake,Campbell,Mountain Dew,1,10011000,Edge,Edge
+25,-0.16,Denali,Campbell,Coke,1,111000,Edge,Edge
+26,6.03,Dry Tortugas,Williams,Mountain Dew,1,10001101,Edge,Edge
+27,-5.8,Denali,Campbell,Coke,1,11100000,Edge,Edge
+28,6.66,Denali,Campbell,Coke,1,111000,Edge,Edge
+29,117.26,Everglades,Young,Coke,1,10001000,Edge,Edge
+30,43.38,Everglades,Williams,Coke,1,10001000,Edge,Edge
+32,-1.7,Glacier,Campbell,Mountain Dew,0,10001001,Middle,Middle
+33,-2.26,Glacier,Campbell,Mountain Dew,0,10001001,Middle,Middle
+34,-2.68,Glacier,Campbell,Mountain Dew,0,10001001,Middle,Middle
+35,-1.31,Everglades,Williams,Coke,1,10001000,Edge,Edge
+36,22.29,Grand Canyon,Williams,Coke,1,10001000,Edge,Edge
+37,2.02,Everglades,Williams,Coke,1,10001000,Edge,Edge
+38,-1.6,Everglades,Williams,Coke,1,10001000,Edge,Edge
+39,35.92,Grand Canyon,Williams,Coke,1,10001000,Edge,Edge
+40,5.66,Grand Canyon,Campbell,Orange Crush,0,111000,Edge,Edge
+41,22.17,Grand Teton,Williams,Coke,1,11111000,Edge,Edge
+43,21.61,Grand Teton,Williams,Coke,1,11111000,Edge,Edge
+44,29.69,Grand Teton,Williams,Coke,1,11111000,Middle,Middle
+45,16.52,Great Basin,Campbell,Coke,1,11111000,Middle,Middle
+46,-2.68,Great Sand Dunes,Campbell,Orange Crush,1,11111111,Edge,Edge
+47,26.71,Great Basin,Campbell,Coke,1,11111000,Middle,Middle
+48,34.34,Great Basin,Campbell,Coke,1,11111000,Middle,Middle
+49,-0.74,Big Bend,Campbell,Orange Crush,1,11111101,Edge,Edge
+50,8.38,Great Smoky Mountains,Campbell,Orange Crush,1,11111100,Edge,Edge
+51,30.48,Great Smoky Mountains,Campbell,Orange Crush,1,11111100,Edge,Edge
+53,27.8,Great Smoky Mountains,Campbell,Orange Crush,1,11111100,Edge,Edge
+54,-3.75,Guadalupe Mountains,Williams,Orange Crush,1,11111100,Edge,Edge
+55,-1.36,Great Basin,Campbell,Mountain Dew,0,1110,Edge,Edge
+56,-2.27,Great Basin,Campbell,Coke,1,11111000,Edge,Edge
+57,7.49,Great Basin,Campbell,Coke,1,11111000,Edge,Edge
+58,11.63,Hot Springs,Campbell,Orange Crush,1,11111101,Edge,Edge
+59,-2.38,Guadalupe Mountains,Williams,Mountain Dew,1,10001101,Edge,Edge
+60,33.8,Hot Springs,Campbell,Orange Crush,1,11111101,Edge,Edge
+61,-1.2,Guadalupe Mountains,Williams,Orange Crush,1,11111100,Edge,Edge
+62,1.58,Grand Canyon,Campbell,Orange Crush,1,11011111,Edge,Edge
+63,0.1,Grand Canyon,Campbell,Orange Crush,1,11011111,Edge,Edge
+64,2.87,Joshua Tree,Campbell,Mountain Dew,0,10001001,Middle,Middle
+65,6.98,Hot Springs,Campbell,Mountain Dew,0,10001001,Middle,Middle
+66,0.4,Hot Springs,Campbell,Mountain Dew,0,10001001,Middle,Middle
+67,60.35,Hot Springs,Campbell,Mountain Dew,0,10001001,Middle,Middle
+68,26.48,Joshua Tree,Campbell,Orange Crush,1,11101001,Edge,Edge
+69,25.11,Joshua Tree,Campbell,Orange Crush,0,11101001,Edge,Edge
+70,22.57,Kings Canyon,Campbell,Orange Crush,1,11111101,Edge,Edge
+72,57.13,Great Basin,Young,Coke,1,11110000,Edge,Edge
+73,24.68,Great Basin,Campbell,Coke,1,11111000,Edge,Edge
+74,-0.46,Kings Canyon,Campbell,Orange Crush,1,11111101,Edge,Edge
+75,49.95,Guadalupe Mountains,Young,Orange Crush,1,10101111,Edge,Edge
+77,18.09,Kings Canyon,Campbell,Orange Crush,1,11111101,Edge,Edge
+78,26.83,Kings Canyon,Campbell,Orange Crush,1,11111101,Edge,Edge
+79,72.63,Guadalupe Mountains,Campbell,Orange Crush,1,10101111,Edge,Edge
+80,5.73,Big Bend,Campbell,Coke,1,11110000,Edge,Edge
+81,5.14,Big Bend,Campbell,Mountain Dew,0,11001000,Edge,Edge
+82,1.47,Kings Canyon,Campbell,Orange Crush,1,10101111,Edge,Edge
+83,86.53,Kings Canyon,Campbell,Orange Crush,1,10101111,Edge,Edge
+84,38.63,Kings Canyon,Campbell,Orange Crush,1,10101111,Edge,Edge
+86,9.41,Kings Canyon,Campbell,Coke,1,11111000,Middle,Middle
+88,4.52,Kings Canyon,Campbell,Coke,1,11111000,Middle,Middle
+89,15.09,Kings Canyon,Campbell,Orange Crush,1,11101000,Middle,Middle
+90,25.29,Mammoth Cave,Campbell,Orange Crush,1,11111101,Edge,Edge
+92,29.13,Mammoth Cave,Campbell,Orange Crush,1,11111101,Edge,Edge
+95,29.48,Lake Clark,Williams,Orange Crush,1,10001111,Edge,Edge
+97,12.63,Carlsbad Caverns,Williams,Mountain Dew,0,10001001,Middle,Middle
+98,102.51,Great Basin,Young,Coke,1,11111000,Edge,Edge
+99,92.25,Great Basin,Young,Coke,1,11111000,Edge,Edge
+100,6.34,Carlsbad Caverns,Williams,Coke,0,10001001,Middle,Middle
+101,6.17,Carlsbad Caverns,Williams,Coke,0,10001001,Middle,Middle
+102,7.24,Carlsbad Caverns,Williams,Coke,0,10001000,Middle,Middle
+103,-4.14,Carlsbad Caverns,Williams,Coke,0,10001001,Middle,Middle
+104,26.68,Carlsbad Caverns,Williams,Coke,1,10001000,Edge,Edge
+105,0.67,Denali,Campbell,Mountain Dew,0,11111000,Middle,Middle
+106,-2.8,Denali,Campbell,Coke,1,111000,Edge,Edge
+107,55.13,Denali,Campbell,Coke,1,111000,Edge,Edge
+108,1.51,Glacier,Campbell,Orange Crush,0,111100,Edge,Edge
+109,33.77,Lake Clark,Williams,Orange Crush,1,11011111,Middle,Middle
+110,18.72,Glacier,Campbell,Orange Crush,0,11011010,Middle,Middle
+111,-0.55,Lake Clark,Williams,Orange Crush,1,10011111,Middle,Middle
+112,14.37,Lake Clark,Williams,Coke,1,1111000,Edge,Edge
+113,45.67,Glacier,Campbell,Orange Crush,0,11011101,Middle,Middle
+114,-0.46,Lake Clark,Williams,Coke,1,11111000,Edge,Edge
+115,23,Lake Clark,Williams,Coke,1,11111000,Edge,Edge
+116,11.92,Lake Clark,Williams,Orange Crush,1,11011111,Middle,Middle
+117,0.89,Canyonlands,Williams,Orange Crush,1,11111101,Edge,Edge
+118,-2.13,Arches,Campbell,Orange Crush,1,10101111,Edge,Edge
+119,-1.45,Hot Springs,Campbell,Coke,1,10001000,Edge,Edge
+120,-1.63,Hot Springs,Campbell,Coke,1,10001000,Edge,Edge
+121,0.25,Canyonlands,Williams,Orange Crush,1,11111101,Edge,Edge
+122,3.63,Kings Canyon,Campbell,Orange Crush,1,11111101,Edge,Edge
+123,10.28,Arches,Campbell,Orange Crush,1,10101111,Edge,Edge
+124,15.66,Canyonlands,Williams,Orange Crush,1,11111101,Edge,Edge
+125,40.52,Hot Springs,Campbell,Coke,1,10001000,Edge,Edge
+126,5.25,Big Bend,Williams,Orange Crush,1,11111101,Edge,Edge
+127,-5.71,Mount Rainier,Campbell,Orange Crush,1,1111101,Middle,Edge
+128,22.28,Big Bend,Williams,Orange Crush,1,11111101,Edge,Edge
+129,81.66,Canyonlands,Young,Mountain Dew,0,10001001,Middle,Middle
+130,1.55,Mount Rainier,Campbell,Orange Crush,1,11110010,Edge,Edge
+132,70.53,Canyonlands,Young,Mountain Dew,0,10001001,Middle,Middle
+133,8.07,Mount Rainier,Campbell,Coke,1,11111000,Middle,Edge
+134,0.85,Acadia,Campbell,Coke,1,10001000,Edge,Edge
+135,62.68,Canyonlands,Young,Mountain Dew,0,10001001,Middle,Middle
+136,0.88,Acadia,Campbell,Coke,1,10001000,Edge,Edge
+138,11.23,Dry Tortugas,Campbell,Orange Crush,1,11111010,Middle,Edge
+139,58.05,Everglades,Young,Mountain Dew,0,1110,Middle,Edge
+140,67.17,Everglades,Young,Mountain Dew,0,10001101,Middle,Middle
+141,-1.91,Great Basin,Campbell,Sprite,1,11011101,Edge,Edge
+142,-0.13,Great Basin,Campbell,Orange Crush,1,11111101,Edge,Edge
+143,29.05,North Cascades,Campbell,Coke,1,11110000,Edge,Edge
+144,33.22,North Cascades,Campbell,Coke,1,11111000,Edge,Edge
+145,-3.13,Great Sand Dunes,Campbell,Orange Crush,0,1001101,Middle,Edge
+146,14.06,Olympic,Williams,Orange Crush,1,11011001,Middle,Edge
+147,52.38,Petrified Forest,Young,Mountain Dew,1,10001011,Edge,Edge
+148,-0.56,Great Sand Dunes,Campbell,Orange Crush,1,10011110,Edge,Edge
+149,11.31,Petrified Forest,Williams,Mountain Dew,1,10001011,Edge,Edge
+150,11.7,Olympic,Williams,Orange Crush,1,11011001,Middle,Edge
+151,3.86,Redwood,Campbell,Orange Crush,1,11011101,Edge,Edge
+152,7.71,Redwood,Campbell,Orange Crush,1,11011101,Edge,Edge
+153,-2.47,Acadia,Campbell,Orange Crush,0,111000,Edge,Edge
+154,-0.71,Acadia,Campbell,Orange Crush,0,111000,Edge,Edge
+155,12.44,Redwood,Campbell,Orange Crush,1,11011101,Edge,Edge
+156,5.27,Dry Tortugas,Williams,Orange Crush,1,11111100,Edge,Edge
+157,-7,Petrified Forest,Campbell,Mountain Dew,0,1110,Edge,Edge
+158,5.71,Carlsbad Caverns,Williams,Orange Crush,1,11111101,Edge,Edge
+159,10.62,Carlsbad Caverns,Williams,Orange Crush,1,11111101,Edge,Edge
+160,16.97,Carlsbad Caverns,Williams,Orange Crush,1,11111101,Edge,Edge
+161,59.23,Glacier,Young,Mountain Dew,1,11001111,Edge,Edge
+162,4.26,Glacier,Campbell,Orange Crush,0,11111101,Middle,Middle
+163,5.1,Joshua Tree,Campbell,Coke,1,11111000,Edge,Edge
+164,12.08,Joshua Tree,Campbell,Coke,1,11111000,Edge,Edge
+165,42.28,Joshua Tree,Campbell,Coke,1,11111000,Edge,Edge
+166,20.89,Badlands,Young,Mountain Dew,1,10011101,Edge,Edge
+167,6.69,Glacier,Williams,Orange Crush,0,11111101,Middle,Middle
+168,95.62,Badlands,Young,Orange Crush,1,10111000,Edge,Edge
+169,74.43,Badlands,Young,Mountain Dew,1,10011101,Edge,Edge
+170,19.04,Big Bend,Williams,Mountain Dew,0,11111000,Middle,Middle
+171,20.93,Big Bend,Williams,Orange Crush,1,11111000,Middle,Edge
+172,18.53,Rocky Mountain,Williams,Orange Crush,1,11111101,Edge,Edge
+173,-6.95,Great Smoky Mountains,Williams,Mountain Dew,0,10001101,Middle,Middle
+174,19.72,Great Smoky Mountains,Williams,Mountain Dew,0,10001101,Middle,Middle
+175,8.31,Glacier,Williams,Mountain Dew,0,10001001,Middle,Middle
+176,21.04,Petrified Forest,Williams,Coke,1,11100000,Edge,Edge
+177,21.98,Petrified Forest,Williams,Coke,1,11100000,Edge,Edge
+178,5.87,Glacier,Williams,Mountain Dew,0,10001001,Middle,Middle
+179,13.8,Petrified Forest,Williams,Coke,1,11100000,Edge,Edge
+180,37,Glacier,Williams,Mountain Dew,0,10001001,Middle,Middle
+181,15.19,Great Basin,Campbell,Coke,1,11111000,Edge,Edge
+182,19.2,Great Basin,Campbell,Coke,1,11111000,Edge,Edge
+183,38.38,Great Basin,Campbell,Coke,1,11110000,Edge,Edge
+184,19.4,North Cascades,Williams,Coke,1,11110000,Edge,Edge
+185,19.03,North Cascades,Williams,Coke,1,11110000,Edge,Edge
+186,36.14,North Cascades,Williams,Coke,1,11110000,Edge,Edge
+187,28.1,Everglades,Campbell,Mountain Dew,0,10001101,Middle,Middle
+188,31.06,Everglades,Williams,Mountain Dew,0,10001101,Middle,Middle
+189,33.72,Petrified Forest,Williams,Mountain Dew,1,10001000,Edge,Edge
+190,5.62,Everglades,Williams,Mountain Dew,0,10001101,Middle,Middle
+191,20.53,Petrified Forest,Williams,Mountain Dew,1,10001000,Edge,Edge
+192,23.17,Great Basin,Campbell,Coke,1,11111000,Edge,Edge
+193,23.53,Petrified Forest,Williams,Mountain Dew,1,10001011,Edge,Edge
+195,28.3,Everglades,Campbell,Mountain Dew,1,11111101,Middle,Middle
+196,62.34,Great Basin,Young,Coke,1,11111000,Edge,Edge
+197,41.75,Everglades,Campbell,Mountain Dew,1,11111101,Middle,Middle
+198,-0.84,Big Bend,Campbell,Coke,1,1111000,Edge,Edge
+199,2.96,Big Bend,Campbell,Coke,1,11110000,Edge,Edge
+200,-2.1,Big Bend,Campbell,Coke,1,11110000,Edge,Edge
+201,34.33,Lake Clark,Williams,Orange Crush,1,11011111,Middle,Edge
+202,43.13,Everglades,Young,Coke,1,11111000,Edge,Edge
+203,23.1,Lake Clark,Williams,Orange Crush,1,10101111,Middle,Middle
+204,39.95,Everglades,Young,Coke,1,11111000,Edge,Edge
+205,8.21,Lake Clark,Williams,Coke,1,11111000,Middle,Middle
+206,16.66,Lake Clark,Campbell,Coke,1,11110000,Edge,Edge
+207,17.37,Grand Teton,Campbell,Orange Crush,1,10101111,Edge,Edge
+208,26.09,Lake Clark,Williams,Orange Crush,1,1001111,Edge,Edge
+209,29.88,Lake Clark,Williams,Coke,1,11111000,Middle,Middle
+210,13.57,Grand Teton,Williams,Dr Pepper,0,10100001,Edge,Edge
+213,30.62,Grand Teton,Williams,Orange Crush,1,10101001,Edge,Edge
+214,0.54,Great Basin,Williams,Coke,1,11111000,Edge,Edge
+215,6.73,Petrified Forest,Williams,Sprite,1,10001111,Edge,Edge
+216,9.69,Petrified Forest,Williams,Sprite,1,10001111,Edge,Edge
+217,5.94,Petrified Forest,Williams,Sprite,1,10001111,Edge,Edge
+218,23.36,Acadia,Campbell,Coke,1,11100000,Edge,Edge
+219,-1.54,Guadalupe Mountains,Campbell,Orange Crush,1,11110111,Middle,Edge
+221,71.19,Acadia,Campbell,Coke,1,11100000,Edge,Edge
+222,-9.64,Guadalupe Mountains,Campbell,Orange Crush,1,11111100,Middle,Edge
+223,19.15,Arches,Campbell,Coke,1,11111000,Edge,Edge
+224,25.99,Arches,Campbell,Coke,1,11111000,Middle,Middle
+225,46.45,Canyonlands,Williams,Mountain Dew,0,10001001,Middle,Middle
+226,31.5,Canyonlands,Williams,Mountain Dew,0,10001001,Middle,Middle
+227,19.06,Arches,Campbell,Coke,1,11111000,Middle,Middle
+228,40.74,Canyonlands,Williams,Mountain Dew,0,10001001,Middle,Middle
+229,3.3,Hot Springs,Campbell,Orange Crush,1,11011000,Edge,Edge
+230,3.03,Hot Springs,Campbell,Coke,1,1111000,Edge,Edge
+231,24.55,Hot Springs,Campbell,Orange Crush,1,11011000,Edge,Edge
+232,-3.38,Mount Rainier,Campbell,Coke,1,11111000,Middle,Edge
+233,22.51,Mount Rainier,Campbell,Coke,1,11111001,Edge,Edge
+234,23.13,Mount Rainier,Campbell,Coke,1,11111000,Edge,Edge
+235,30.18,Badlands,Campbell,Mountain Dew,1,10011101,Edge,Edge
+237,2.1,Badlands,Williams,Orange Crush,1,10111000,Edge,Edge
+238,-4.9,Glacier,Campbell,Orange Crush,1,11111111,Middle,Edge
+239,35.91,Glacier,Young,Orange Crush,1,11111111,Middle,Edge
+240,34.82,Glacier,Young,Orange Crush,1,11111111,Middle,Edge
+241,13.46,Denali,Williams,Mountain Dew,0,1110,Edge,Edge
+242,13.66,North Cascades,Campbell,Coke,1,11111000,Edge,Edge
+243,5.26,Badlands,Campbell,Pepsi,0,11011000,Middle,Middle
+244,14.4,Denali,Williams,Mountain Dew,0,1110,Edge,Edge
+245,30.9,North Cascades,Campbell,Coke,1,1111000,Edge,Edge
+246,16.36,Badlands,Campbell,Mountain Dew,1,10011101,Edge,Edge
+247,14.04,Badlands,Campbell,Mountain Dew,1,10001101,Edge,Edge
+248,3.82,North Cascades,Campbell,Coke,1,11111000,Edge,Edge
+249,24.77,Great Basin,Young,Coke,1,11111000,Edge,Edge
+250,30.9,Great Basin,Campbell,Coke,1,11111000,Edge,Edge
+251,32.79,Great Basin,Campbell,Coke,1,11111000,Edge,Edge
+252,3.9,Sequoia,Campbell,Orange Crush,0,11000001,Edge,Edge
+253,-12.43,Sequoia,Campbell,Orange Crush,0,11000001,Edge,Edge
+254,22.47,Sequoia,Williams,Orange Crush,0,11000001,Edge,Edge
+255,-7.45,Kings Canyon,Campbell,Orange Crush,1,11111000,Middle,Edge
+256,-5.57,Kings Canyon,Campbell,Orange Crush,1,11101001,Edge,Edge
+257,30.95,Grand Canyon,Williams,Orange Crush,0,11001000,Edge,Edge
+258,-4.01,Great Smoky Mountains,Campbell,Orange Crush,1,11011001,Edge,Edge
+259,35.36,Grand Canyon,Williams,Orange Crush,0,11001000,Edge,Edge
+260,5.7,Great Smoky Mountains,Campbell,Orange Crush,1,11011001,Edge,Edge
+261,13.8,Great Smoky Mountains,Campbell,Orange Crush,1,11011001,Edge,Edge
+262,44.56,Lake Clark,Williams,Mountain Dew,0,10001101,Middle,Middle
+263,35.84,Lake Clark,Williams,Mountain Dew,0,10001101,Middle,Middle
+264,44.16,Lake Clark,Williams,Mountain Dew,0,1110,Middle,Edge
+266,-7.58,Acadia,Campbell,Orange Crush,0,111000,Edge,Edge
+267,1.84,Acadia,Campbell,Coke,1,10001000,Edge,Edge
+268,24.22,Lake Clark,Williams,Mountain Dew,0,1110,Middle,Edge
+269,27.43,Great Basin,Campbell,Orange Crush,1,11011101,Edge,Edge
+270,4.31,Mount Rainier,Campbell,Orange Crush,1,10111111,Edge,Edge
+271,0.37,Mount Rainier,Campbell,Orange Crush,1,11111111,Edge,Edge
+272,4.33,Mount Rainier,Campbell,Orange Crush,1,11111111,Middle,Middle
+273,27.8,Great Basin,Campbell,Coke,1,11111000,Edge,Edge
+274,82.85,Great Basin,Campbell,Coke,1,11111000,Edge,Edge
+275,1.49,Yellowstone,Campbell,Orange Crush,1,11001101,Edge,Edge
+276,5.31,Yellowstone,Campbell,Orange Crush,1,11001101,Edge,Edge
+277,8.26,Yellowstone,Campbell,Orange Crush,1,11001101,Edge,Edge
+278,44.26,Petrified Forest,Campbell,Coke,1,11100000,Edge,Edge
+279,24.84,Mount Rainier,Campbell,Orange Crush,1,11101000,Edge,Edge
+280,62.9,Petrified Forest,Williams,Coke,1,11100000,Edge,Edge
+281,64.22,Petrified Forest,Williams,Coke,1,11100000,Edge,Edge
+282,31.71,Petrified Forest,Williams,Coke,1,11100000,Edge,Edge
+283,40.34,Petrified Forest,Williams,Coke,1,11100000,Edge,Edge
+284,67.53,Petrified Forest,Williams,Coke,1,11100000,Edge,Edge
+285,4.13,Kings Canyon,Williams,Mountain Dew,0,10001111,Middle,Middle
+286,16.7,Kings Canyon,Campbell,Mountain Dew,0,10001111,Middle,Middle
+287,45.82,Kings Canyon,Williams,Mountain Dew,0,10001111,Middle,Middle
+288,21.19,Great Basin,Campbell,Coke,1,11111000,Edge,Edge
+289,6.93,Everglades,Campbell,Orange Crush,1,10011111,Edge,Edge
+290,-11.64,Great Basin,Campbell,Coke,1,11111000,Edge,Edge
+291,89.05,Everglades,Campbell,Orange Crush,1,11011111,Edge,Edge
+292,71.44,Great Basin,Campbell,Orange Crush,1,11111111,Middle,Middle
+293,27.28,Everglades,Campbell,Coke,1,1111000,Edge,Edge
+294,44.92,Everglades,Campbell,Orange Crush,1,11011111,Middle,Middle
+295,35.52,Everglades,Williams,Orange Crush,1,11011111,Edge,Edge
+296,53.86,Sequoia,Williams,Orange Crush,0,11000001,Edge,Edge
+297,22.48,Canyonlands,Campbell,Mountain Dew,0,10001001,Middle,Middle
+298,35.46,Canyonlands,Campbell,Mountain Dew,0,10001001,Middle,Middle
+299,18.04,Canyonlands,Campbell,Mountain Dew,0,10001001,Middle,Middle
+300,-4.78,Petrified Forest,Campbell,Mountain Dew,0,10001101,Middle,Middle
+301,48.35,Petrified Forest,Williams,Mountain Dew,0,10000001,Edge,Edge
+302,58.35,Petrified Forest,Williams,Mountain Dew,0,10001101,Middle,Middle
+303,40.1,Petrified Forest,Williams,Mountain Dew,0,10000001,Edge,Edge
+304,15.32,Petrified Forest,Williams,Mountain Dew,0,10001101,Middle,Middle
+305,6.63,Sequoia,Campbell,Orange Crush,0,11000001,Edge,Edge
+306,55,Mount Rainier,Williams,Orange Crush,1,11111001,Edge,Edge
+307,50.44,Petrified Forest,Williams,Mountain Dew,0,10000001,Edge,Edge
+308,69.27,Mount Rainier,Campbell,Orange Crush,1,11111001,Edge,Edge
+309,14.12,Mount Rainier,Williams,Orange Crush,1,11111001,Edge,Edge
+310,49.09,Big Bend,Campbell,Coke,1,11111101,Middle,Middle
+311,27.6,Big Bend,Campbell,Coke,1,11111001,Edge,Edge
+312,19.7,Big Bend,Campbell,Coke,1,11111011,Middle,Middle
+313,7.44,Acadia,Campbell,Coke,1,10001000,Edge,Edge
+314,58.71,Grand Teton,Campbell,Coke,1,11111000,Middle,Edge
+315,39.6,Grand Teton,Campbell,Orange Crush,1,11001111,Middle,Edge
+316,65.98,Grand Teton,Campbell,Orange Crush,1,11001111,Edge,Edge
+317,24.23,Everglades,Williams,Mountain Dew,0,10001001,Edge,Edge
+318,5.61,Great Sand Dunes,Campbell,Orange Crush,0,11111000,Middle,Middle
+319,-10.63,Great Sand Dunes,Campbell,Orange Crush,0,11111000,Middle,Middle
+320,38.08,Everglades,Williams,Mountain Dew,1,11111110,Middle,Middle
+322,24.65,Everglades,Williams,Mountain Dew,0,1110,Middle,Edge
+323,13.46,Yosemite,,Coke,1,10001000,Edge,Edge
+324,3.55,Guadalupe Mountains,Campbell,Orange Crush,1,11111100,Middle,Edge
+325,2.86,Great Smoky Mountains,Campbell,Orange Crush,1,10001111,Edge,Edge
+326,-12.69,Great Basin,Campbell,Pibb Extra,1,11011001,Middle,Middle
+327,-6.8,Great Basin,Campbell,Pibb Extra,1,11011001,Middle,Middle
+328,17.82,Great Basin,Campbell,Pibb Extra,1,11011001,Middle,Middle
+329,6.86,Guadalupe Mountains,Campbell,Orange Crush,1,11111100,Middle,Edge
+330,2.5,Great Basin,Campbell,Pibb Extra,1,11011001,Middle,Middle
+331,2.13,Great Basin,Campbell,Pibb Extra,1,11011001,Middle,Middle
+332,30.86,Great Smoky Mountains,Young,Coke,1,11111000,Edge,Edge
+333,-0.78,Great Basin,Campbell,Pibb Extra,1,11011001,Middle,Middle
+334,24.22,Yosemite,Williams,Coke,1,10001000,Edge,Edge
+335,5.66,Guadalupe Mountains,Campbell,Coke,1,10001000,Edge,Edge
+336,2.51,Sequoia,Campbell,Orange Crush,0,11110101,Middle,Edge
+337,20,Yosemite,Williams,Coke,1,10001000,Edge,Edge
+338,5.16,Sequoia,Campbell,Orange Crush,0,11110101,Middle,Edge
+339,37.6,Sequoia,Campbell,Orange Crush,0,11110101,Middle,Edge
+340,24.61,Denali,Williams,Coke,1,11111000,Edge,Edge
+341,13.59,Denali,Williams,Coke,1,11111000,Edge,Edge
+342,10.3,Grand Teton,,Orange Crush,1,11011111,Middle,Edge
+343,75.63,Grand Teton,Young,Orange Crush,1,11011111,Middle,Edge
+344,62.6,Grand Teton,,Orange Crush,1,11011111,Middle,Edge
+346,5.99,Glacier,Williams,Mountain Dew,0,10001001,Middle,Middle
+347,5.31,Acadia,,Coke,1,10001000,Edge,Edge
+348,5.38,Glacier,Williams,Mountain Dew,0,10001001,Middle,Middle
+349,4.09,Grand Canyon,,Orange Crush,0,11001000,Edge,Edge
+350,37.96,Grand Canyon,,Orange Crush,0,11001000,Edge,Edge
+351,75.84,Everglades,,Orange Crush,1,10011111,Edge,Edge
+352,81.43,Everglades,,Orange Crush,1,11001111,Edge,Edge
+353,68.21,Mount Rainier,Williams,Coke,1,11111000,Edge,Edge
+354,29.18,Mount Rainier,,Coke,1,11111000,Edge,Edge
+355,80.59,Everglades,,Coke,0,11000000,Edge,Edge
+356,30.42,Mount Rainier,,Coke,1,11111001,Edge,Edge
